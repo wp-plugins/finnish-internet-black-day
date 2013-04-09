@@ -29,7 +29,7 @@ function mustapaiva_opt_add_page_fn() {
 
 
 function  section_text_fn() {
-	echo "<p>By default code is active only in campaing day 23.4. and each visitor sees message only once.</p>";
+	echo "<p>By default code is active only in campaign day 23.4. and each visitor sees message only once.</p>";
 	echo '<p>If you want, you can modify texts in message.<br>You can use HTML-signs, for example link is added like this: &#60;a href="http://jarkea.fi/en" target="_blank"&#62;Common sense into copyright law&#60;/a&#62;. </p>';
 	echo "<p>If you modify texts, activate code for every day and check modifications.</p>";
 }
