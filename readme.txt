@@ -41,3 +41,6 @@ You can install and activate plugin right now, code will be active only on campa
 
 = 1.0 =
 First release
+
+= 1.2 =
+Updates js file, adds signature count
