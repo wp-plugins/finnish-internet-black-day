@@ -4,7 +4,7 @@ Donate link:
 Tags: finnish, internet, blackout, musta päivä, järkeä, järkeä tekijänoikeuslakiin
 Requires at least: 3.3
 Tested up to: 3.5.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,3 +41,6 @@ You can install and activate plugin right now, code will be active only on campa
 
 = 1.0 =
 First release
+
+= 1.2 =
+Updates js file, adds signature count
