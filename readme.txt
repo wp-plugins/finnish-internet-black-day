@@ -47,3 +47,6 @@ Updates js file, adds signature count
 
 = 1.3 =
 Fixed one little bug in 1.2
+
+= 1.4 =
+Changed wp_kses to wp_kses_post
