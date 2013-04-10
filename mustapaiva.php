@@ -3,7 +3,7 @@
  * Plugin Name: Finnish Internet black day
  * Plugin URI: https://www.facebook.com/events/160986290729976/
  * Description: Use this plugin to add Finnish Internet black day code by SC5 for your site. You can install and enable plugin now, code is activated only on campaing day 23.4. 
- * Version: 1.2
+ * Version: 1.3
  * Author: Timi Wahalahti
  * Author URI: http://wahalahti.fi
  */
@@ -112,7 +112,7 @@ if (!empty($options['big_text'])) {
 	$jsopt .= "bigText: '". $options['big_text']. "', ";
 }
 if (!empty($options['small_text'])) {
-	$jsopt .= "smallText: '". $options['small_text']. "'";
+	$jsopt .= "smallText: '". $options['small_text']. "', ";
 }if (!empty($options['count_text'])) {
 	$jsopt .= "countText: '". $options['count_text']. "', ";
 }
