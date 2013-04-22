@@ -4,7 +4,7 @@ Donate link:
 Tags: finnish, internet, blackout, musta päivä, järkeä, järkeä tekijänoikeuslakiin
 Requires at least: 3.3
 Tested up to: 3.5.1
-Stable tag: 1.4
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,3 +50,6 @@ Fixed one little bug in 1.2
 
 = 1.4 =
 Changed wp_kses to wp_kses_post
+
+= 1.5 =
+Changed the defult text to finnish
