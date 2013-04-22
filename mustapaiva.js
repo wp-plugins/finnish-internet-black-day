@@ -9,11 +9,11 @@ var copyrightCampaign = function(options) {
     setDefaultOption("onCampaignDayOnly", true);
     setDefaultOption("showOnlyOnce", true);
     setDefaultOption("showCoders", false);
-    setDefaultOption("title", 'Common sense into copyright law?');
-    setDefaultOption("bigText", 'Sign the <a href="https://www.kansalaisaloite.fi/fi/aloite/70" target="_blank">law proposal for better copyright law</a>.');
-    setDefaultOption("smallText", 'Check also: <a href="https://www.facebook.com/events/160986290729976/" target="_blank">Finnish Internet black day 23.4. event</a>');
-    setDefaultOption("countText", 'Signatures already');
-    setDefaultOption("closeText", 'Close');
+    setDefaultOption("title", 'Internetin musta päivä 23.4.');
+    setDefaultOption("bigText", 'Verkolle valoisampi tulevaisuus - allekirjoita <a href="https://www.kansalaisaloite.fi/fi/aloite/70" target="_blank">Järkeä tekijänoikeuslakiin -aloite tästä.</a>.');
+    setDefaultOption("smallText", '<a href="http://mustapaiva.jarkea.fi" target="_blank">Mistä Internetin mustassa päivässä on kyse?</a>');
+    setDefaultOption("countText", 'Allekirjoituksia jo');
+    setDefaultOption("closeText", 'Sulje');
 
     console.log(options);
 
