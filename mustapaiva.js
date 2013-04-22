@@ -10,7 +10,7 @@ var copyrightCampaign = function(options) {
     setDefaultOption("showOnlyOnce", true);
     setDefaultOption("showCoders", false);
     setDefaultOption("title", 'Internetin musta päivä 23.4.');
-    setDefaultOption("bigText", 'Verkolle valoisampi tulevaisuus - allekirjoita <a href="https://www.kansalaisaloite.fi/fi/aloite/70" target="_blank">Järkeä tekijänoikeuslakiin -aloite tästä.</a>.');
+    setDefaultOption("bigText", 'Verkolle valoisampi tulevaisuus - allekirjoita <a href="https://www.kansalaisaloite.fi/fi/aloite/70" target="_blank">Järkeä tekijänoikeuslakiin -aloite tästä</a>.');
     setDefaultOption("smallText", '<a href="http://mustapaiva.jarkea.fi" target="_blank">Mistä Internetin mustassa päivässä on kyse?</a>');
     setDefaultOption("countText", 'Allekirjoituksia jo');
     setDefaultOption("closeText", 'Sulje');
